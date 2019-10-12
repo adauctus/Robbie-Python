@@ -3,9 +3,11 @@
 Let's get started.
 
 ## Prep
-1) install [Homebrew](https://brew.sh)
-2) in Terminal, run `brew install python3`
-3) Download [PyCharm](https://www.jetbrains.com/education/?fromMenu#lang=python&role=learner)
+1) Install [Homebrew](https://brew.sh)
+2) In Terminal, run `brew install python3`
+3) Still in Terminal, run `pip3 install virtualenv`
+(this step may not be required, but I think it is)
+4) Download [PyCharm](https://www.jetbrains.com/education/?fromMenu#lang=python&role=learner)
    * PyCharm looks intimidating at first. Lots of buttons. Don't let it overwhelm you.
 
 ## Let's Go!
